@@ -1,6 +1,6 @@
 # Melody Chiasson, étudiante en TIM
 
-![photo de moi](DSC08912.JPG)
+![photo de moi](photo_melody.png)
 
 ## Mes intérêts dans le domaine du multimédia
 
@@ -8,4 +8,4 @@ Je suis intéressée par l'ensemble du domaine du multimédia et j'ai hâte d'en
 
 ## Mes autres intérêts
 
-J'aime apprendre la musique; la théorie, les instruments (guitare, synthétiseur) ainsi que la production. J'ai un 
+J'aime apprendre la musique: la théorie, des instruments ainsi que la production. Je me considère encore comme une débutante mais ça fait déjà 2-3 ans que je me suis initiée à cela (voir mon setup sur la photo!) Sinon, j'aime bien l'artisanat (couture, crochet, point de croix), les chats, la cuisine et le plein-air. Fun fact: J'ai 31 ans et j'ai un DEP en horticulture! :blush:
