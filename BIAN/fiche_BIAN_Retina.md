@@ -9,6 +9,8 @@
  ## Installation ##
  Type d'installation, (contemplative, immersive, interactive), Mise en espace, composantes techniques, éléments nécessaires èa la mise en exposition + Photo croquis, photo installation etc.
  
+Retina est une installation de type principalement contemplative puisque c’est une projection que les visiteurs doivent visionner en continu pendant environ 10-15 minutes. Il est possible qu’elle soit interprété comme étant légèrement immersive par sa nature à capter l’attention avec les images et la lumière et inonder l’œil et le cerveaux d’informations qui 
+ 
  ## Expérience vécue ##
  
 En assistant à la projection de l’œuvre Retina, j’ai ressenti beaucoup de curiosité dès mon premier contact avec celle-ci. Tant par les éléments visuels qui étaient projetés que par l’ambiance sonore assez frappante. J’ai par la suite continué ma visite de l’exposition mais mon choix s’est finalement arrêté sur cet œuvre puisque j’avais plusieurs questionnements et le désir de décoder le message de l’artiste. 
