@@ -11,7 +11,8 @@ La 6e Biennale internationale d'art numérique (BIAN 6) était présentée du 1e
  ## Installation ##
  Type d'installation, (contemplative, immersive, interactive), Mise en espace, composantes techniques, éléments nécessaires èa la mise en exposition + Photo croquis, photo installation etc.
  
-Retina est une installation de type principalement contemplative puisque c’est une projection que les visiteurs doivent visionner en continu pendant environ 10-15 minutes. Il est possible qu’elle soit interprété comme étant légèrement immersive par sa nature à capter l’attention avec les images et la lumière et inonder l’œil et le cerveaux d’informations qui 
+Retina est une installation de type principalement contemplative puisque c’est une projection que les visiteurs doivent visionner en continu pendant environ 10-15 minutes. Elle peut être interprétée comme un tant soit peu immersive par sa nature à capter l’attention avec les images et la lumière qui viennent inonder l’œil et le cerveaux d’informations et de sensations selon l'expérience vécues par le visiteur. 
+
  
  ## Expérience vécue ##
  
