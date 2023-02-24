@@ -1,7 +1,7 @@
 # RETINA - HERMAN KOLGEN #
 
 ## Présentation de l'exposition ##
- Nom, lieu, type d'exposition, date de la visite, (temporaire, permanente, itinérante, intérieure, extérieure) + photo affiche
+La 6e Biennale internationale d'art numérique (BIAN 6) était présentée du 1er décembre 2022 au 5 février 2023 à Arsenal Art Contemporain Montréal. Cette exposition temporaire intérieure présentait divers œuvres numériques et multimédias sous la thématique de la mutation. Une œuvre en particulier s’est démarqué lors de la visite du vendredi 3 février 2023.
  
  ## Présentation de l'oeuvre ##
  Titre de l'oeuvre, nom de l'artiste, année de réalisation, description de l'oeuvre + photo cartel et vue d'ensemble (vidéo?)
