@@ -2,16 +2,40 @@
 
 ## Présentation de l'exposition ##
 La 6e Biennale internationale d'art numérique (BIAN 6) était présentée du 1er décembre 2022 au 5 février 2023 à Arsenal Art Contemporain Montréal. Cette exposition temporaire intérieure présentait divers œuvres numériques et multimédias sous la thématique de la mutation. Une œuvre en particulier s’est démarqué lors de la visite du vendredi 3 février 2023.
+
+![promo_1](medias/BIAN_Retina_promo_01.jpg)
+![promo_2](medias/BIAN_Retina_promo_02.jpg)
+
+Photographies: Melody Chiasson
  
  ## Présentation de l'oeuvre ##
  L’œuvre Retina a été réalisée par l’artiste Montréalais Herman Kolgen en 2021. Retina est une œuvre numérique, combinant audio et images en mouvement (pouvant être présenté sous forme de 3 et 6 canaux vidéo) dans laquelle l’artiste s’interroge sur « combien d’images notre acuité visuelle aura-t-elle enregistrées, produites et compilées tout au long de notre vie, elle qui, dépendant de la lumière, interprète à chaque instant des fragments du monde? ». 
-(Source : http://kolgen.net/fr/performances/retina-performance/)
+Source : http://kolgen.net/fr/performances/retina-performance/
+
+![cartel](medias/BIAN_Retina_cartel.jpg)
+![ecran_2](medias/BIAN_Retina_ecran_02.jpg)
+
+Photographie: Melody Chiasson
+
+[![Oeuvre](http://img.youtube.com/vi/YVsLigNqOrk/0.jpg)](http://www.youtube.com/watch?v=YVsLigNqOrk)
+
+Vidéo: Melody Chiasson
 
  
  ## Installation ##
  Type d'installation, (contemplative, immersive, interactive), Mise en espace, composantes techniques, éléments nécessaires èa la mise en exposition + Photo croquis, photo installation etc.
  
 Retina est une installation de type principalement contemplative puisque c’est une projection que les visiteurs doivent visionner en continu pendant environ 10-15 minutes. Elle peut être interprétée comme un tant soit peu immersive par sa nature à capter l’attention avec les images et la lumière qui viennent inonder l’œil et le cerveaux d’informations et de sensations selon l'expérience vécues par le visiteur. 
+
+![ecran_3](medias/BIAN_Retina_ecran_03.jpg)
+![installation_1](medias/BIAN_Retina_installation_01.jpg)
+![installation_1](medias/BIAN_Retina_installation_01.jpg)
+![installation_4](medias/BIAN_Retina_installation_04.jpg)
+![projecteur_1](medias/BIAN_Retina_projecteur_01.jpg)
+![projecteur_2](medias/BIAN_Retina_projecteur_02.jpg)
+
+![croquis_1](medias/BIAN_Retina_croquis_01.jpg)
+![croquis_2](medias/BIAN_Retina_croquis_02.jpg)
 
  
  ## Expérience vécue ##
@@ -27,6 +51,8 @@ Cependant, j'aurais personnellement préféré que l'écran ou la toile sur laqu
 Un autre point que j'aurais amélioré selon moi serait que l'emplacement de l'œuvre soit dans un espace plus intime et fermé, avec davantage de bancs ou de sièges individuel. J'ai trouvé dommage qu'il n'y ait qu'un seul banc, assez large pour accueillir une ou deux personnes, ce qui ne convient pas au fait de devoir assister à une projection d'environ 10-15 minutes. De plus, ce banc se trouvait directement en face de l'entrée de l'espace de l'exposition, ce qui pouvait déconcentrer pendant le visionnement de la projection. 
 
 En terminant, j'aurais trouvé intéressant si l'artiste avait utilisé les rayons lasers pour écrire et faire des motifs sur le sol ou les murs afin d'accentuer davantage le thème de l’œuvre, qui se décrit comme voulant explorer la frontière entre ce que perçoit l’œil dans son environnement et ce que le cerveau enregistre comme information.
+
+![ecran_1](medias/BIAN_Retina_ecran_01.jpg)
  
  
  # !RECHERCHER PHOTOS ET VIDÉOS SUR LE WEB + SOURCES #
