@@ -4,7 +4,9 @@
 La 6e Biennale internationale d'art numérique (BIAN 6) était présentée du 1er décembre 2022 au 5 février 2023 à Arsenal Art Contemporain Montréal. Cette exposition temporaire intérieure présentait divers œuvres numériques et multimédias sous la thématique de la mutation. Une œuvre en particulier s’est démarqué lors de la visite du vendredi 3 février 2023.
  
  ## Présentation de l'oeuvre ##
- Titre de l'oeuvre, nom de l'artiste, année de réalisation, description de l'oeuvre + photo cartel et vue d'ensemble (vidéo?)
+ L’œuvre Retina a été réalisée par l’artiste Montréalais Herman Kolgen en 2021. Retina est une œuvre numérique, combinant audio et images en mouvement (pouvant être présenté sous forme de 3 et 6 canaux vidéo) dans laquelle l’artiste s’interroge sur « combien d’images notre acuité visuelle aura-t-elle enregistrées, produites et compilées tout au long de notre vie, elle qui, dépendant de la lumière, interprète à chaque instant des fragments du monde? ». 
+(Source : http://kolgen.net/fr/performances/retina-performance/)
+
  
  ## Installation ##
  Type d'installation, (contemplative, immersive, interactive), Mise en espace, composantes techniques, éléments nécessaires èa la mise en exposition + Photo croquis, photo installation etc.
