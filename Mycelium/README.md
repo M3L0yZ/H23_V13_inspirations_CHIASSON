@@ -18,3 +18,5 @@ Voici les oeuvres présentées dans ce répertoire qui se trouvent dans le dossi
 * **Luma Sol** : https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
 * **Nexum** : https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html
 * **Zodie Gal** : https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html
+<br>
+Le dossier « fiche_MYCELIUM_Lumasol » contient les informations et médias spécifiques à cette oeuvre qui a été choisie dans le cadre du travail 1B.
