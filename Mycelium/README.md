@@ -11,7 +11,7 @@ https://tim-montmorency.com/2023/
 Chaque dossier est nommé selon la nature des informations qu’il contient, en plus de contenir un fichier README.md qui détaille les informations relatives au contenu de celui-ci.
 <br>
 <br>
-Les oeuvres présentées dans ce répertoire sont :
+Voici les oeuvres présentées dans ce répertoire qui se trouvent dans le dossier « Projets » :
 <br>
 * **Echomarine** : https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html
 * **Edria** : https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html
