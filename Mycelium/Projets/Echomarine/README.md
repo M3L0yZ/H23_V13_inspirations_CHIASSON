@@ -9,7 +9,7 @@ https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html
 Le dossier « medias » contient les photographies de l'oeuvre Echomarine et le fichier « fiche_MYCELIUM_Echomarine.md » contient les informations relatives à l'oeuvre.
 <br>
 <br>
-L’équipe derrière cette œuvre est composée d’étudiants finissant du programme TIM, soit : 
+L’équipe derrière cette œuvre est composée d’étudiantes finissantes du programme TIM, soit : 
 
 * **Florence Lapierre** :
 https://tim-montmorency.com/2023/projets/Echomarine/docs/web/journal_1.html
