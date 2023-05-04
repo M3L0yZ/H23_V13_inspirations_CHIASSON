@@ -13,20 +13,16 @@ L’équipe derrière cette œuvre est composée d’étudiants finissant du pro
 
 * **Éloïse Gagné** :
 https://tim-montmorency.com/2023/projets/LumaSol/docs/web/journal_1.html
-https://github.com/Kawabongaaa/LumaSol/issues/assigned/Paracoco
 
 
 * **Skayla Stimphil** :
 https://tim-montmorency.com/2023/projets/LumaSol/docs/web/journal_2.html
-https://github.com/Kawabongaaa/LumaSol/issues/assigned/skayla-nelie
 
 
 * **Michaël Simard** :
 https://tim-montmorency.com/2023/projets/LumaSol/docs/web/journal_3.html
-https://github.com/Kawabongaaa/LumaSol/issues/assigned/MichaelSimardVaudry
 
 
 * **Pénélope Morrisson** :
 https://tim-montmorency.com/2023/projets/LumaSol/docs/web/journal_4.html
-https://github.com/Kawabongaaa/LumaSol/issues/assigned/Penelope-M
 
