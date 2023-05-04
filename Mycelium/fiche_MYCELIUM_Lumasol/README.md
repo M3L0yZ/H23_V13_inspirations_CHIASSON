@@ -9,7 +9,7 @@ https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
 Le dossier « medias » contient les photographies de l'oeuvre Luma Sol et le fichier « fiche_MYCELIUM_Lumasol.md » contient les informations relatives à l'oeuvre.
 <br>
 <br>
-L’équipe derrière cette œuvre est composée d’étudiants finissant du programme TIM, soit : 
+L’équipe derrière cette œuvre est composée d’étudiants finissants du programme TIM, soit : 
 
 * **Éloïse Gagné** :
 https://tim-montmorency.com/2023/projets/LumaSol/docs/web/journal_1.html
