@@ -17,4 +17,4 @@ Les oeuvres présentées dans ce répertoire sont :
 * **Edria** : https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html
 * **Luma Sol** : https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
 * **Nexum** : https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html
-* **Zodia Gal** : https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html
+* **Zodie Gal** : https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html
