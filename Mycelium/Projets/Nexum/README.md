@@ -6,7 +6,7 @@ Le présent répertoire contient les divers dossiers, médias et documents relat
 https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html
 <br>
 <br>
-Le dossier « medias » contient les photographies de l'oeuvre Edria et le fichier « fiche_MYCELIUM_Nexum.md » contient les informations relatives à l'oeuvre.
+Le dossier « medias » contient les photographies de l'oeuvre Nexum et le fichier « fiche_MYCELIUM_Nexum.md » contient les informations relatives à l'oeuvre.
 <br>
 <br>
 L’équipe derrière cette œuvre est composée d’étudiants finissants du programme TIM, soit : 
