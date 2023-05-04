@@ -1,4 +1,4 @@
-## Exposition Mycélium - projets synthèses des finissants 2023 ##
+## Exposition Mycélium - projets synthèses des finissants TIM 2023 ##
 
 
 
