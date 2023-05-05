@@ -13,16 +13,10 @@ L’équipe derrière cette œuvre est composée d’étudiantes finissantes du 
 
 * **Florence Lapierre** :
 https://tim-montmorency.com/2023/projets/Echomarine/docs/web/journal_1.html
-
-
 * **Natacha Abdallah** :
 https://tim-montmorency.com/2023/projets/Echomarine/docs/web/journal_2.html
-
-
 * **Tracy Gua** :
 https://tim-montmorency.com/2023/projets/Echomarine/docs/web/journal_3.html
-
-
 * **Maria Laura Coronel Petit** :
 https://tim-montmorency.com/2023/projets/Echomarine/docs/web/journal_4.html
 
