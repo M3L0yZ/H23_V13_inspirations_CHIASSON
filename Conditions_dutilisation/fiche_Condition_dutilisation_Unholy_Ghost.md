@@ -26,15 +26,7 @@ Source : https://www.facebook.com/FondationPHI/posts/pfbid02mzHPAxC64xPRwpYkTwzc
 
 ![extrait_1](medias/Conditions_dutilisation_Unholy_Ghost_espace_03.jpg.jpg)
 
-## Cartel ##
-
-![cartel](medias/Conditions_dutilisation_Unholy_Ghost_cartel.jpg)
-
-<sub>Photographie: Melody Chiasson</sub>
-<br>
-<br>
-
-## Unholy Ghost ##
+### Unholy Ghost ###
 
 ![extrait_1](medias/Conditions_dutilisation_Unholy_Ghost_extrait_01.jpg.jpg)
 
@@ -42,12 +34,11 @@ Source : https://www.facebook.com/FondationPHI/posts/pfbid02mzHPAxC64xPRwpYkTwzc
 <br>
 <br>
 
-## Vidéo ##
+### Cartel ###
 
-[![Oeuvre](http://img.youtube.com/vi/Xbo-yxh7BCY/0.jpg)](http://www.youtube.com/watch?v=Xbo-yxh7BCY)
+![cartel](medias/Conditions_dutilisation_Unholy_Ghost_cartel.jpg)
 
-<sub>Vidéo: Melody Chiasson</sub>
-
+<sub>Photographie: Melody Chiasson</sub>
 <br>
 <br>
  
@@ -58,6 +49,7 @@ L’installation de Unholy Ghost est présentée dans une aire ouverte se trouva
 <br>
 ### Croquis de la vue de face, en entrant dans la pièce ###
 <br>
+
 ![croquis_01](medias/Conditions_dutilisation_Unholy_Ghost_croquis_01.jpg)
 
 <sub>Croquis: Melody Chiasson</sub>
@@ -67,7 +59,8 @@ Deux poufs carrés en tissus se trouvent en face du téléviseur pour permettre 
 <br>
 <br>
 
-### Téléviseur, haut-parleur et lumière ###
+### Installation ###
+Téléviseur, haut-parleur et lumière
 <br>
 
 ![television](medias/Conditions_dutilisation_Unholy_Ghost_television_03.jpg.jpg)
@@ -109,8 +102,6 @@ Deux poufs carrés en tissus se trouvent en face du téléviseur pour permettre 
 
 <br>
 
-![anges_1](medias/Conditions_dutilisation_Unholy_Ghost_anges_01.jpg.jpg)
-
 ![anges_2](medias/Conditions_dutilisation_Unholy_Ghost_anges_02.jpg.jpg)
 
 ![anges_3](medias/Conditions_dutilisation_Unholy_Ghost_anges_03.jpg.jpg)
@@ -119,11 +110,9 @@ Deux poufs carrés en tissus se trouvent en face du téléviseur pour permettre 
 <br>
 <br>
 
-### Mise en espace ###
-
+### Installation ###
+Luminaires, anges, démarcation
 <br>
-
-![projecteur_1](medias/Conditions_dutilisation_Unholy_Ghost_anges_luminaires_01.jpg.jpg)
 
 ![projecteur_2](medias/Conditions_dutilisation_Unholy_Ghost_anges_luminaires_02.jpg.jpg)
 
@@ -135,7 +124,16 @@ Deux poufs carrés en tissus se trouvent en face du téléviseur pour permettre 
 <br>
 <br>
 
-## Extrait ##
+## Apperçu vidéo de la mise en espace ##
+
+[![Oeuvre](http://img.youtube.com/vi/Xbo-yxh7BCY/0.jpg)](http://www.youtube.com/watch?v=Xbo-yxh7BCY)
+
+<sub>Vidéo: Melody Chiasson</sub>
+
+<br>
+<br>
+
+## Extrait vidéo de l'oeuvre ##
 
 [![extrait](http://img.youtube.com/vi/QulxXJd3nuQ/0.jpg)](http://www.youtube.com/watch?v=QulxXJd3nuQ)
 <br>
