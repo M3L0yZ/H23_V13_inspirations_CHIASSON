@@ -13,15 +13,9 @@ L’équipe derrière cette œuvre est composée d’étudiants finissants du pr
 
 * **Sébastien Reilly** :
 https://tim-montmorency.com/2023/projets/Nexum/docs/web/journal_1.html
-
-
 * **Sabrina Laforest** :
 https://tim-montmorency.com/2023/projets/Nexum/docs/web/journal_2.html
-
-
 * **Alexandre Daniel** :
 https://tim-montmorency.com/2023/projets/Nexum/docs/web/journal_3.html
-
-
 * **Maxime Des Lauriers** :
 https://tim-montmorency.com/2023/projets/Nexum/docs/web/journal_4.html
