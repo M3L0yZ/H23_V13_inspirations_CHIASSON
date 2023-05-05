@@ -29,19 +29,7 @@ Source : https://www.facebook.com/FondationPHI/posts/pfbid02mzHPAxC64xPRwpYkTwzc
 <br>
 <br>
 
-![extrait_1](medias/Conditions_dutilisation_Unholy_Ghost_espace_03.jpg.jpg)
-
-<br>
-<br>
-
-## Unholy Ghost ##
-
 ![extrait_1](medias/Conditions_dutilisation_Unholy_Ghost_extrait_01.jpg.jpg)
-
-<br>
-<br>
-
-## Cartel ##
 
 ![cartel](medias/Conditions_dutilisation_Unholy_Ghost_cartel.jpg)
 
@@ -49,6 +37,8 @@ Source : https://www.facebook.com/FondationPHI/posts/pfbid02mzHPAxC64xPRwpYkTwzc
 <br>
  
  ## Installation ##
+ 
+ ![extrait_1](medias/Conditions_dutilisation_Unholy_Ghost_espace_03.jpg.jpg)
  
 L’installation de Unholy Ghost est présentée dans une aire ouverte se trouvant au 4e étage de la Fondation PHI, directement en face de la porte d’entrée de l’escalier qui mène à cet étage. Elle est constituée d’un téléviseur de marque LG accroché au mur à l’aide d’un support mural standard, mesurant environ 2 m de large par 1,5 m de hauteur. Les fils sont cachés derrière le téléviseur et ne sont pas visibles par le visiteur, à moins que celui-ci regarde derrière l’écran.
 <br>
@@ -84,6 +74,8 @@ Téléviseur, haut-parleur et lumière
 
 ![espace_3](medias/Conditions_dutilisation_Unholy_Ghost_espace_04.jpg.jpg)
 
+![anges_1](medias/Conditions_dutilisation_Unholy_Ghost_anges_01.jpg.jpg)
+
 <br>
 À la droite, le visiteur peut observer une étagère triangulaire accrochée au mur soutenant quatre statuettes d’ange. L’étagère mesure environ 2 m de largeur par 80 cm de hauteur, et la profondeur est d’environ 30 cm. Au sol, devant l’étagère, se trouvent deux petits poteaux reliés par un fil de fer, d’environ 30 cm de hauteur, qui servent de démarcation entre les statuettes et le visiteur sur une distance d’environ 1 m. Il y a quatre luminaires projetant un éclairage rouge qui illumine chacune des statuettes. Les fils sont cachés et les luminaires sont suspendus par rail.
 <br>
@@ -92,15 +84,6 @@ Téléviseur, haut-parleur et lumière
 ## Croquis de la vue à droite, en entrant dans la pièce ##
 
 ![croquis_02](medias/Conditions_dutilisation_Unholy_Ghost_croquis_02.jpg)
-
-<br>
-<br>
-
-## Statuettes ##
-
-![anges_2](medias/Conditions_dutilisation_Unholy_Ghost_anges_02.jpg.jpg)
-
-![anges_3](medias/Conditions_dutilisation_Unholy_Ghost_anges_03.jpg.jpg)
 
 <br>
 <br>
@@ -118,10 +101,35 @@ Luminaires, anges, démarcation
 <br>
 <br>
 
+## Statuettes ##
+
+![anges_2](medias/Conditions_dutilisation_Unholy_Ghost_anges_02.jpg.jpg)
+
+![anges_3](medias/Conditions_dutilisation_Unholy_Ghost_anges_03.jpg.jpg)
+
+<br>
+<br>
+
 ## Apperçu vidéo de la mise en espace ##
 
 [![Oeuvre](http://img.youtube.com/vi/Xbo-yxh7BCY/0.jpg)](http://www.youtube.com/watch?v=Xbo-yxh7BCY)
 
+<br>
+<br>
+
+## Expérience vécue ##
+En entrant dans la salle, le visiteur voit en premier le téléviseur ainsi que les poufs et par la suite, l’étagère avec les statuettes. Le visiteur peut choisir d’aller regarder la vidéo ou les statuettes à sa guise et peut choisir de s’assoir ou non pour apprécier l’œuvre puisque cela n’a pas d’incidence sur l’expérience vécue. 
+Selon mon expérience, j’ai préféré m’assoir pour regarder la vidéo et ensuite je me suis levée pour regarder les statuettes. Par la suite, j’ai préféré rester debout lors d’un deuxième visionnement de la vidéo.
+<br>
+<br>
+
+## Aspects positifs ##
+J’ai bien aimé le fait que l’œuvre est installée dans une grande aire ouverte, je me sentais plus libre d’apprécier l’œuvre comme bon me semble et de pouvoir prendre le temps de circuler pour regarder les statuettes et analyser l’environnement. Même lorsque d’autres visiteurs étaient présents, je me sentais libre de contempler l’œuvre sans me sentir envahissante ou envahie par la présence d’étrangers. J’ai aimé la thématique de liens entre la vie et la mort mélangées à la vie virtuelle et réelle. J’ai bien aimé les parties vidéos filmées à l’extérieur dans un cimetière, les effets utilisés dans le montage et la bande sonore.
+<br>
+<br>
+
+## Aspects négatifs ##
+Malgré le fait que la vidéo jouait en boucle, il était facile de repérer la coupure puisqu’elle n’était pas bien intégrée dans le montage. Il y avait aussi des défauts d’exécution dans l’animation 3D, qui, selon moi, n’était pas recherchée comme effet. J’ai trouvé que ça donnait un aspect un peu bâclé et accrochait mon regard et mon attention envers ces aspects, plutôt que de me laisser plonger dans l’œuvre. Je n’ai pas vraiment compris le lien entre la vidéo et les quatre statuettes identiques d’anges, j’ai trouvé que c’était superflu.
 <br>
 <br>
 
