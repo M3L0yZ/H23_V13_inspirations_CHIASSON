@@ -3,7 +3,7 @@
 
 ## Présentation de l'exposition ##
 
-L’exposition Conditions d’utilisation est présentée du 9 mars au 9 juillet 2023 à la Fondation PHI à Montréal. Cette exposition intérieure temporaire présente des œuvres numériques ainsi que des œuvres réalisées avec l’aide des technologies récentes. L’exposition se décrit comme tel sur la page web de la Fondation PHI : 
+L’exposition Conditions d’utilisation est présentée du 9 mars au 9 juillet 2023 à la Fondation PHI à Montréal. Cette exposition intérieure temporaire présente des œuvres numériques ainsi que des œuvres réalisées avec l’aide des technologies récentes. L’exposition se décrit comme telle sur la page web de la Fondation PHI : 
 > « Conditions d’utilisation rassemble des œuvres qui explorent l’impact qu’ont les technologies sur la définition, la construction et le (re)cadrage des identités individuelles et collectives, alors que nous vivons simultanément en ligne et AFK (away from keyboard, expression anglaise qui se traduit par « loin de son clavier »). »
 <br>
 Source : https://phi.ca/fr/evenements/conditions-dutilisation/
