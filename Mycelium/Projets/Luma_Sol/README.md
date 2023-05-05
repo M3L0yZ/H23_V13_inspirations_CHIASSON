@@ -13,16 +13,10 @@ L’équipe derrière cette œuvre est composée d’étudiants finissants du pr
 
 * **Éloïse Gagné** :
 https://tim-montmorency.com/2023/projets/LumaSol/docs/web/journal_1.html
-
-
 * **Skayla Stimphil** :
 https://tim-montmorency.com/2023/projets/LumaSol/docs/web/journal_2.html
-
-
 * **Michaël Simard** :
 https://tim-montmorency.com/2023/projets/LumaSol/docs/web/journal_3.html
-
-
 * **Pénélope Morrisson** :
 https://tim-montmorency.com/2023/projets/LumaSol/docs/web/journal_4.html
 
