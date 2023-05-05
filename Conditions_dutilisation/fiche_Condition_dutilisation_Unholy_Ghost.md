@@ -50,5 +50,20 @@ Source : https://www.facebook.com/FondationPHI/posts/pfbid02mzHPAxC64xPRwpYkTwzc
 <br>
  
  ## Installation ##
+Croquis de la vue de face, en entrant dans la pièce
+<br>
+![croquis_01](medias/Conditions_dutilisation_Unholy_Ghost_croquis_01.jpg)
+Croquis de la vue à droite, en entrant dans la pièce
+<br>
+![croquis_02](medias/Conditions_dutilisation_Unholy_Ghost_croquis_02.jpg)
+
+## Vue de droite - les anges ##
+![anges_1](medias/Conditions_dutilisation_Unholy_Ghost_anges_01.jpg.jpg)
+![anges_2](medias/Conditions_dutilisation_Unholy_Ghost_anges_02.jpg.jpg)
+![anges_3](medias/Conditions_dutilisation_Unholy_Ghost_anges_03.jpg.jpg)
+![projecteur_1](medias/Conditions_dutilisation_Unholy_Ghost_anges_luminaires_01.jpg.jpg)
+![projecteur_2](medias/Conditions_dutilisation_Unholy_Ghost_anges_luminaires_02.jpg.jpg)
+![demarcation_1](medias/Conditions_dutilisation_Unholy_Ghost_demarcation_anges.jpg.jpg)
+![demarcation_2](medias/Conditions_dutilisation_Unholy_Ghost_demarcation.jpg.jpg)
 
 
