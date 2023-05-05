@@ -6,7 +6,7 @@ L’exposition Conditions d’utilisation est présentée du 9 mars au 9 juillet
 <br>
 Source : https://phi.ca/fr/evenements/conditions-dutilisation/
 
-### Exposition ###
+## Exposition ##
 
 ![promo_1](medias/Conditions_dutilisation_Fondation_PHI_exposition.jpg)
 ![promo_2](medias/Conditions_dutilisation_Fondation_PHI_exterieur.jpg)
@@ -25,7 +25,7 @@ Source : https://www.facebook.com/FondationPHI/posts/pfbid02mzHPAxC64xPRwpYkTwzc
 
 ![extrait_1](medias/Conditions_dutilisation_Unholy_Ghost_espace_03.jpg.jpg)
 
-### Cartel ###
+## Cartel ##
 
 ![cartel](medias/Conditions_dutilisation_Unholy_Ghost_cartel.jpg)
 
@@ -33,7 +33,7 @@ Source : https://www.facebook.com/FondationPHI/posts/pfbid02mzHPAxC64xPRwpYkTwzc
 
 <br>
 
-### Unholy Ghost ###
+## Unholy Ghost ##
 
 ![extrait_1](medias/Conditions_dutilisation_Unholy_Ghost_extrait_01.jpg.jpg)
 
@@ -41,10 +41,10 @@ Source : https://www.facebook.com/FondationPHI/posts/pfbid02mzHPAxC64xPRwpYkTwzc
 
 <br>
 
-### Vidéo ###
+## Vidéo ##
 
 [![Oeuvre](http://img.youtube.com/vi/Xbo-yxh7BCY/0.jpg)](http://www.youtube.com/watch?v=Xbo-yxh7BCY)
-
+<br>
 <sub>Vidéo: Melody Chiasson</sub>
 
 <br>
@@ -53,11 +53,23 @@ Source : https://www.facebook.com/FondationPHI/posts/pfbid02mzHPAxC64xPRwpYkTwzc
 Croquis de la vue de face, en entrant dans la pièce
 <br>
 ![croquis_01](medias/Conditions_dutilisation_Unholy_Ghost_croquis_01.jpg)
+<br>
 Croquis de la vue à droite, en entrant dans la pièce
 <br>
 ![croquis_02](medias/Conditions_dutilisation_Unholy_Ghost_croquis_02.jpg)
+<br>
+<sub>Croquis: Melody Chiasson</sub>
+## Vue de l'espace - vidéo ##
+![television](medias/Conditions_dutilisation_Unholy_Ghost_television_03.jpg.jpg)
+![espace_1](medias/Conditions_dutilisation_Unholy_Ghost_espace_02.jpg.jpg)
+![espace_2](medias/Conditions_dutilisation_Unholy_Ghost_espace_01.jpg.jpg)
+![espace_3](medias/Conditions_dutilisation_Unholy_Ghost_espace_04.jpg.jpg)
+![haut_parleur_1](medias/Conditions_dutilisation_Unholy_Ghost_haut_parleur.jpg.jpg)
+![lumiere](medias/Conditions_dutilisation_Unholy_Ghost_lumiere.jpg.jpg)
+<br>
+<sub>Photographies: Melody Chiasson</sub>
 
-## Vue de droite - les anges ##
+## Vue de l'espace - sculptures ##
 ![anges_1](medias/Conditions_dutilisation_Unholy_Ghost_anges_01.jpg.jpg)
 ![anges_2](medias/Conditions_dutilisation_Unholy_Ghost_anges_02.jpg.jpg)
 ![anges_3](medias/Conditions_dutilisation_Unholy_Ghost_anges_03.jpg.jpg)
@@ -65,5 +77,12 @@ Croquis de la vue à droite, en entrant dans la pièce
 ![projecteur_2](medias/Conditions_dutilisation_Unholy_Ghost_anges_luminaires_02.jpg.jpg)
 ![demarcation_1](medias/Conditions_dutilisation_Unholy_Ghost_demarcation_anges.jpg.jpg)
 ![demarcation_2](medias/Conditions_dutilisation_Unholy_Ghost_demarcation.jpg.jpg)
+<br>
+<sub>Photographies: Melody Chiasson</sub>
+
+## Extrait ##
+[![extrait](http://img.youtube.com/vi/QulxXJd3nuQ/0.jpg)](http://www.youtube.com/watch?v=QulxXJd3nuQ)
+<br>
+<sub>Vidéo: Melody Chiasson</sub>
 
 
