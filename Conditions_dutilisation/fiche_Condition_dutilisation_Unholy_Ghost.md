@@ -110,7 +110,7 @@ Luminaires, anges, démarcation
 <br>
 <br>
 
-## Apperçu vidéo de la mise en espace ##
+## Aperçu vidéo de la mise en espace ##
 
 [![Oeuvre](http://img.youtube.com/vi/Xbo-yxh7BCY/0.jpg)](http://www.youtube.com/watch?v=Xbo-yxh7BCY)
 
