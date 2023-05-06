@@ -36,7 +36,7 @@ Schéma de branchement
 Source : https://tim-montmorency.com/2023/projets/Nexum/docs/web/preproduction.html
 <br>
 
-![schema_1](medias/ Mycelium_Nexum_schema_02.png)
+![schema_1](medias/Mycelium_Nexum_schema_02.png)
 
 <br>
 
