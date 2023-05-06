@@ -138,7 +138,7 @@ Luma Sol se trouve en face de la porte 1, qui est la porte principale du collèg
 <br>
 
 ## Aspects positifs ##
-J’ai trouvé que Luma Sol était agréable à regarder et à essayer. J’ai bien aimé le concept et l’ambiance lumineuse, surtout en soirée.
+J’ai trouvé que Luma Sol était agréable à regarder et à essayer puisqu’il est interactif à l’aide d’un vélo stationnaire, ce qui permet d’interagir concrètement avec l’œuvre, en plus d’encourager l’activité physique tout en contemplant les effets produits en pédalant. De plus, j’aime beaucoup leur concept de changement d’éclairage selon les saisons sur l’arbre. J’ai bien aimé l’ambiance lumineuse, surtout en soirée.
 <br>
 <br>
 
