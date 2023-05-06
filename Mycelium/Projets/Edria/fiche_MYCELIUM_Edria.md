@@ -47,7 +47,6 @@ Photographies de l’œuvre en développement dans le grand studio
 
 Schéma de branchement
 <br>
-
 Source : https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.html
 <br>
 
@@ -56,9 +55,7 @@ Source : https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.h
 <br>
 
 Schéma de branchement détaillé pour l'audio
-
 <br>
-
 Source : https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.html
 
 <br>
@@ -68,9 +65,7 @@ Source : https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.h
 <br>
 
 Schéma de branchement détaillé pour l'alimentation
-
 <br>
-
 Source : https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.html
 
 <br>
@@ -79,9 +74,7 @@ Source : https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.h
 <br>
 
 Schéma de branchement détaillé pour le distribution poe
-
 <br>
-
 Source : https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.html
 
 <br>
@@ -91,9 +84,7 @@ Source : https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.h
 <br>
 
 Schéma poteau central
-
 <br>
-
 Source : https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.html
 
 <br>
