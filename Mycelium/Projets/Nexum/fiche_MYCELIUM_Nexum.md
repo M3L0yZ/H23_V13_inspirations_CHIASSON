@@ -2,9 +2,9 @@
 
 ## Présentation de l'oeuvre ##
 
-Nexum est un projet synthèse réalisé par des étudiants finissants du programme de techniques d’intégration multimédia au collège Montmorency. Ces finissants de la session d’hiver 2023 ont développés cette œuvre dans le cadre de l’exposition Mycélium, exposée sur le site du collège du 20 au 23 mars 2023. Selon la page web de leur projet, Nexuml se décrit comme tel :
+Nexum est un projet synthèse réalisé par des étudiants finissants du programme de techniques d’intégration multimédia au collège Montmorency. Ces finissants de la session d’hiver 2023 ont développés cette œuvre dans le cadre de l’exposition Mycélium, exposée sur le site du collège du 20 au 23 mars 2023. Selon la page web de leur projet, Nexum se décrit comme tel :
 
-> « Dans le cadre de ce projet, nous voulons démontrer l'importance pour les humains de demeurer en contact avec la nature en raison de l'urgence climatique que nous vivons actuellement. C'est par l'action, en pédalant dans ce cas, qu'on peut avoir un impact positif sur l'environnement lumineux. »
+> « Une expérience lumineuse immersive, des animations sensationnelles et une ambiance musicale des plus spéciale. Ce parcours interactif permet la connexion entre l'humain et son espace tout en nous plongeant dans un environnement immersif enchanteur! »
 > 
 <br>
 
