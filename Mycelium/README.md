@@ -15,11 +15,13 @@ Voici les oeuvres présentées dans ce répertoire qui se trouvent dans le dossi
 <br>
 * **Echomarine** : https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html
 * **Edria** : https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html
-* **Luma Sol** : https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
 * **Nexum** : https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html
 * **Zodie Gal** : https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html
 <br>
-Le dossier « fiche_MYCELIUM_Lumasol » contient des informations et médias supplémentaires relatives à l'oeuvre Luma Sol (oeuvre choisie).
+Le dossier « fiche_MYCELIUM_Lumasol » contient des informations et médias supplémentaires relatives à l'oeuvre Luma Sol (oeuvre choisie):
 <br>
+
+* **Luma Sol** : https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
+
 <br>
 Le fichier « Mycelium_informations_complementaires.md » contient les informations supplémentaires relatives à l'exploration des projets.
