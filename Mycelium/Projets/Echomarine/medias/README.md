@@ -1,2 +1,8 @@
+## Photographies et vidéo de l'oeuvre Echomarine ##
 
-https://youtu.be/-0ljOY2yiv0
+Ce dossier contient les photographies de l'oeuvre **Echomarine** de l'exposition **Mycélium** présenté au Collège Montmorency. Le lien vers la vidéo sur Youtube se trouve dans le présent fichier README.md.
+
+
+### Lien YouTube ###
+
+* **Extrait** - https://youtu.be/-0ljOY2yiv0
