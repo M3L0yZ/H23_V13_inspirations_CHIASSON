@@ -2,7 +2,7 @@
 
 ## Présentation de l'oeuvre ##
 
-Edria est un projet synthèse réalisé par des étudiants finissants du programme de techniques d’intégration multimédia au collège Montmorency. Ces finissants de la session d’hiver 2023 ont développés cette œuvre dans le cadre de l’exposition Mycélium, exposé sur le site du collège du 20 au 23 mars 2023. Selon la page web de leur projet, Edria se décrit comme tel :
+Edria est un projet synthèse réalisé par des étudiants finissants du programme de techniques d’intégration multimédia au collège Montmorency. Ces finissants de la session d’hiver 2023 ont développés cette œuvre dans le cadre de l’exposition Mycélium, exposée sur le site du collège du 20 au 23 mars 2023. Selon la page web de leur projet, Edria se décrit comme tel :
 
 > « Traversant un hiver froid et glacial, des explorateurs arrivent en terre inconnue : EDRIA. Des piliers se dressent, et un écosystème hors de ce monde se dévoile sous leurs yeux. Une structure centrale attire l’attention des explorateurs. Intrigués, ils rentrent dans cette espace insolite et s'approchent de la dite structure: des lumières s'allument, des sons se déclenchent, et il semblerait que la présence de plusieurs personnes soit nécessaire pour progresser... »
 > 
