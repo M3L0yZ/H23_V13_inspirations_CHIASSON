@@ -1,6 +1,6 @@
 # Echomarine – Mycélium #
 ## Présentation de l'oeuvre ##
-Echomarine est un projet synthèse réalisé par des étudiantes finissantes du programme de techniques d’intégration multimédia au collège Montmorency. Ces finissantes de la session d’hiver 2023 ont développées cet œuvre dans le cadre de l’exposition Mycélium, exposé sur le site du collège du 20 au 23 mars 2023. Selon la page web de leur projet, Echomarine se décrit comme tel :
+Echomarine est un projet synthèse réalisé par des étudiantes finissantes du programme de techniques d’intégration multimédia au collège Montmorency. Ces finissantes de la session d’hiver 2023 ont développées cette œuvre dans le cadre de l’exposition Mycélium, exposée sur le site du collège du 20 au 23 mars 2023. Selon la page web de leur projet, Echomarine se décrit comme tel :
 > « Une projection immersive controlée par un dispositif interactif qui nous donne un aperçu de la beauté des fonds marins tout en mettant de l'avant ses enjeux. Animaux interactifs et plantes marines, Echomarine a un but contemplatif et vise à conscientiser. »
 
 <br>
@@ -20,11 +20,9 @@ https://tim-montmorency.com/2023/projets/Echomarine/docs/web/journal_3.html
 * **Maria Laura Coronel Petit** :
 https://tim-montmorency.com/2023/projets/Echomarine/docs/web/journal_4.html<br>
 
-<br>
-<br>
 
 ## Développement ##
-Photographies de l’œuvre en développement dans le grand studio
+Photographies de l’œuvre en développement dans le petit studio
 
 <br>
 
