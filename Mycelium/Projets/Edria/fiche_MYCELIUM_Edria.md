@@ -28,8 +28,6 @@ https://tim-montmorency.com/2023/projets/EDRIA/docs/web/journal_5.html
 * **Jean-Christophe Zephir** :
 https://tim-montmorency.com/2023/projets/EDRIA/docs/web/journal_6.html
 
-<br>
-<br>
 
 ## Développement ##
 Photographies de l’œuvre en développement dans le grand studio
