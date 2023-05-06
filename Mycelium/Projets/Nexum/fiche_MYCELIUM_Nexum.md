@@ -26,7 +26,7 @@ https://tim-montmorency.com/2023/projets/Nexum/docs/web/journal_4.html
 Photographies de l’œuvre en développement dans le grand studio
 <br>
 
-![photo_1](medias/ Mycelium_Nexum_trajet.jpg)
+![photo_1](medias/Mycelium_Nexum_trajet.jpg)
 <br>
 
 ## Schéma du projet ##
