@@ -166,6 +166,6 @@ Vue de face
 [![extrait](http://img.youtube.com/vi/XQPgg2Av614/0.jpg)](http://www.youtube.com/watch?v=XQPgg2Av614)
 
 ## Sources médias ##
-Photographies, vidéos et croquis: Melody Chiasson (sauf indication contraire).
+Photographies et vidéos: Melody Chiasson (sauf indication contraire).
 ![selfie](medias/Mycelium_melody.JPG)
 
