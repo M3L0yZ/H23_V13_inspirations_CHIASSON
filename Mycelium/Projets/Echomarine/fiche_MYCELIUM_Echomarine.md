@@ -32,6 +32,12 @@ Photographies de l’œuvre en développement dans le petit studio
 ![photo_4](medias/Mycelium_Echomarine_projection.jpg)
 
 <br>
+Extrait vidéo de l'oeuvre
+<br>
+
+[![extrait](http://img.youtube.com/vi/-0ljOY2yiv0/0.jpg)](http://www.youtube.com/watch?v=-0ljOY2yiv0)
+
+<br>
 <br>
 
 ## Schéma du projet ##
