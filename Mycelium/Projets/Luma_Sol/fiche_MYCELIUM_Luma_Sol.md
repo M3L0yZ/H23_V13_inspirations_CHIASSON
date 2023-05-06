@@ -1,90 +1,44 @@
-# BROUILLON LUMA SOL #
+# Luma Sol – Mycélium #
 
-L’œuvre Luma Sol est constituée d’un vélo stationnaire qui, lors de son utilisation, permet d’activer un moteur ainsi qu’un relais électromécanique qui contrôlent l’interaction avec divers types de luminaires ainsi que l’ambiance sonore. De plus, le visiteur peut connecter son téléphone intelligent pour le recharger en pédalant.
+## Présentation de l'oeuvre ##
+
+Luma Sol est un projet synthèse réalisé par des étudiants finissants du programme de techniques d’intégration multimédia au collège Montmorency. Ces finissants de la session d’hiver 2023 ont développés cette œuvre dans le cadre de l’exposition Mycélium, exposée sur le site du collège du 20 au 23 mars 2023. Selon la page web de leur projet, Luma Sol se décrit comme tel :
+
+> « Dans le cadre de ce projet, nous voulons démontrer l'importance pour les humains de demeurer en contact avec la nature en raison de l'urgence climatique que nous vivons actuellement. C'est par l'action, en pédalant dans ce cas, qu'on peut avoir un impact positif sur l'environnement lumineux. »
+> 
 <br>
-https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
 
-___
+Source : https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
 
-INTENTIONS ET CONCEPT
 <br>
-https://tim-montmorency.com/2023/projets/LumaSol/docs/web/preproduction.html
 
-___
-
-EMPLACEMENT
+L’équipe derrière cette œuvre est composée d’étudiants finissants du programme TIM, soit : 
 <br>
-Collège Montmorency, près de la porte 1 
-
-___
-
-LOGICIELS
-<br>
-Arduino, VCV Rack, MadMapper, Visual Studio Code
-
-___
-
-ÉQUIPEMENTS
-
-* Vélo stationnaire
-
-LUMIÈRE
-
-* LED Strip DMX
-* DMX Dot String
-* Boules lumineuses 200mm
-* Boule lumineuses 36"
-* Tubes opal 1m, 1,5m, 2m
-
-ÉLECTRICITÉ
-
-* 2 multiprises
-* 2 ac current sensor
-* 2 moteurs
-* 2 microControleurs
-
-ORDINATEUR
-
-* 1 mac mini
-
-AUTRE
-
-* 2 détecteurs de rotation des pédales
-* 2 microControleurs
-* 2 Haut-parleurs
-* 2 Caisson étanche
-* Magrétomètre
-
-___
-
-ÉQUIPE
-
-
-L’équipe derrière cet œuvre est composée d’étudiants finissant du programme TIM, soit : 
-<br>
-Éloïse Gagné
+* **Éloïse Gagné** :
 https://tim-montmorency.com/2023/projets/LumaSol/docs/web/journal_1.html
-<br>
-https://github.com/Kawabongaaa/LumaSol/issues/assigned/Paracoco
-
-
-Skayla Stimphil
-<br>
+* **Skayla Stimphil** :
 https://tim-montmorency.com/2023/projets/LumaSol/docs/web/journal_2.html
-<br>
-https://github.com/Kawabongaaa/LumaSol/issues/assigned/skayla-nelie
-
-
-Michaël Simard
-<br>
+* **Michaël Simard** :
 https://tim-montmorency.com/2023/projets/LumaSol/docs/web/journal_3.html
-<br>
-https://github.com/Kawabongaaa/LumaSol/issues/assigned/MichaelSimardVaudry
-
-
-Pénélope Morrisson
-<br>
+* **Pénélope Morrisson** :
 https://tim-montmorency.com/2023/projets/LumaSol/docs/web/journal_4.html
-<br>
-https://github.com/Kawabongaaa/LumaSol/issues/assigned/Penelope-M
 
+## Développement ##
+Photographies de l’œuvre en développement dans le grand studio
+<br>
+
+![photo_1](medias/Mycelium_Luma_Sol_luminaires.jpg)
+![photo_2](medias/Mycelium_Luma_Sol_outils.jpg)
+![photo_3](medias/Mycelium_Luma_Sol_velo.jpg)
+![photo_4](medias/Mycelium_Luma_Sol_velo_moteur.jpg)
+![photo_5](medias/Mycelium_Luma_Sol_velo_test.jpg)
+<br>
+
+## Schéma du projet ##
+
+Schéma de branchement
+<br>
+Source : https://tim-montmorency.com/2023/projets/LumaSol/docs/web/preproduction.html
+<br>
+
+![schema_1](medias/Mycelium_Luma_Sol_schema_01.png)
